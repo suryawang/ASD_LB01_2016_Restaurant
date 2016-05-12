@@ -1,0 +1,4 @@
+12/5/2016
+- Show product name + price + image on page for customer and boss.
+- Create an authentification for cashier, boss, and chef
+- Can edit product name and price
